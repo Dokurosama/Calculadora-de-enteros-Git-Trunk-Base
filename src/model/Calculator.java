@@ -2,6 +2,9 @@ package model;
 
 public class Calculator {
 	
+	public Calculator() {
+	}
+	
 	/**
 	 * Metodo para dividir dos enteros y obtener solo la parte entera de la division
 	 * @param dividend dividendo de la operacion
@@ -24,7 +27,6 @@ public class Calculator {
 		return dividend%divider;
 	}
 
-<<<<<<< HEAD
 	/**
 	 * Metodo para realizar la multiplicacion de dos numeros
 	 * @param numberOne, es el numero que representa al multiplicando
@@ -35,7 +37,6 @@ public class Calculator {
 		return numberOne * numberTwo;
 	}
 	
-=======
 	/*
 	 * Metodo para sumar dos enteros
 	 * @param numberOne numero uno a sumar
@@ -57,5 +58,4 @@ public class Calculator {
 		return numberOne - numberTwo;
 	}
 
->>>>>>> main
 }
