@@ -2,10 +2,6 @@ package presenter;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.security.KeyException;
-import java.security.PublicKey;
-
-import javax.xml.crypto.dsig.keyinfo.KeyValue;
 
 import model.Calculator;
 import view.MainFrame;
