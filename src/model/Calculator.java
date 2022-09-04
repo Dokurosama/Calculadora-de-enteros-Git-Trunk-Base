@@ -24,6 +24,18 @@ public class Calculator {
 		return dividend%divider;
 	}
 
+<<<<<<< HEAD
+	/**
+	 * Metodo para realizar la multiplicacion de dos numeros
+	 * @param numberOne, es el numero que representa al multiplicando
+	 * @param numberTwo, es el numero que representa el multiplicador
+	 * @return es el producto de la multiplicacion
+	 */
+	public int multiplication(int numberOne, int numberTwo) {
+		return numberOne * numberTwo;
+	}
+	
+=======
 	/*
 	 * Metodo para sumar dos enteros
 	 * @param numberOne numero uno a sumar
@@ -45,4 +57,5 @@ public class Calculator {
 		return numberOne - numberTwo;
 	}
 
+>>>>>>> main
 }
