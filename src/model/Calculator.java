@@ -2,7 +2,6 @@ package model;
 
 public class Calculator {
 
-<<<<<<< HEAD
 	/**
 	 * Metodo para realizar la multiplicacion de dos numeros
 	 * @param numberOne, es el numero que representa al multiplicando
@@ -13,7 +12,6 @@ public class Calculator {
 		return numberOne * numberTwo;
 	}
 	
-=======
 	/*
 	 * Metodo para sumar dos enteros
 	 * @param numberOne numero uno a sumar
@@ -35,5 +33,4 @@ public class Calculator {
 		return numberOne - numberTwo;
 	}
 
->>>>>>> main
 }
